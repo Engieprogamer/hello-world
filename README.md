@@ -1,4 +1,4 @@
-# hello-world
+# hello-world-practice
 first program on github, creating hello world.
 
 Hello my fellow engineers.
